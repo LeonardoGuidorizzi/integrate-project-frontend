@@ -1,0 +1,19 @@
+header{
+    background-color: #3347B0;
+    height: 150px;
+    padding: 0 5.9375rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.lion{
+    margin-top: 10px;
+}
+.sair{
+    flex-direction: column;
+    justify-content: center;
+    font-size: 46px;
+
+}

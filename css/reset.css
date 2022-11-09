@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+span{
+    color: #ffff;
+    font-family: roboto;
+}
+h1{
+   
+    font-family: Roboto;
+font-size: 57px;
+font-weight: 700;
+line-height: 67px;
+letter-spacing: 0em;
+text-align: left;
+
+font-family: Roboto;
+font-size: 57px;
+font-weight: 300;
+line-height: 67px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+strong{
+    color: blue;
+}
+i{
+    color: #fff;
+}
+
+:root{
+  --desaproved-color: #C11010;
+  --aproved-color: #3347B0;
+  --exam-color:#E5B657;
+}

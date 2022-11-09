@@ -1,0 +1,47 @@
+footer{
+    background-color: #3347B0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 95px;
+    height:140px;
+    font-size: 16px;
+    font-weight: 400px;
+    
+
+}
+.contacts-container{
+    display: flex;
+}
+.copyright{
+    display:flex;
+    justify-content: center;
+}
+.telefone, .email, .rua{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+.icon-container{
+    display: flex;
+    justify-content: space-between;
+}
+.social-media-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 20px;
+}
+.icon-container{
+    border-radius: 50%;
+    border: 1px solid #fff;
+    width: 45px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+  
